@@ -1,0 +1,33 @@
+2018-06-25 13:49:42,576 - MYtest - INFO - You had select <selenium.webdriver.firefox.webdriver.WebDriver (session="6ac00905-5426-41e2-8786-30046a992281")> browser.
+2018-06-25 13:49:42,897 - MYtest - INFO - browser maximize the current window.
+2018-06-25 13:49:42,979 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 13:49:48,110 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 13:49:48,614 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 13:49:49,115 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 13:49:49,264 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 13:49:49,722 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 13:49:49,854 - BasePage - INFO - Had find the element ' 快递管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/p 
+2018-06-25 13:49:50,139 - BasePage - INFO - The element ' 快递管理 ' was clicked.
+2018-06-25 13:49:51,206 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[1] 
+2018-06-25 13:49:55,887 - MYtest - INFO - browser maximize the current window.
+2018-06-25 13:49:55,909 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 13:49:58,467 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 13:49:58,765 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 13:49:59,266 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 13:49:59,306 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 13:49:59,625 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 13:49:59,655 - BasePage - INFO - Had find the element ' 快递管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/p 
+2018-06-25 13:49:59,914 - BasePage - INFO - The element ' 快递管理 ' was clicked.
+2018-06-25 13:50:00,015 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 13:50:00,552 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[2] 
+2018-06-25 13:50:04,730 - MYtest - INFO - browser maximize the current window.
+2018-06-25 13:50:04,756 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 13:50:07,503 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 13:50:07,783 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 13:50:08,284 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 13:50:08,377 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 13:50:08,673 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 13:50:08,721 - BasePage - INFO - Had find the element ' 快递管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/p 
+2018-06-25 13:50:09,022 - BasePage - INFO - The element ' 快递管理 ' was clicked.
+2018-06-25 13:50:09,123 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 13:50:09,652 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[3] 

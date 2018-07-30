@@ -1,0 +1,25 @@
+2018-05-16 11:02:04,706 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 11:02:04,706 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-05-16 11:02:06,820 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 11:02:09,051 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-16 11:02:09,052 - BrowserEngine - INFO - Maximize the current window.
+2018-05-16 11:02:09,064 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 11:02:13,616 - BasePage - INFO - The element '  OA系统 ' was clicked.
+2018-05-16 11:02:13,619 - BasePage - INFO - wait for 10 seconds.
+2018-05-16 11:02:13,683 - BrowserEngine - INFO - Now, Close and quit the browser.
+2018-05-16 11:02:28,869 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 11:02:28,870 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-05-16 11:02:30,916 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 11:02:33,140 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-16 11:02:33,141 - BrowserEngine - INFO - Maximize the current window.
+2018-05-16 11:02:33,153 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 11:02:37,415 - BasePage - INFO - The element '  OA系统 ' was clicked.
+2018-05-16 11:02:37,419 - BasePage - INFO - wait for 10 seconds.
+2018-05-16 11:02:37,582 - BasePage - INFO - The element ' EA通讯录 ' was clicked.
+2018-05-16 11:02:39,123 - BasePage - INFO - The element ' 员工通讯录 ' was clicked.
+2018-05-16 11:02:39,323 - BasePage - INFO - Sleep for 0 seconds
+2018-05-16 11:02:39,449 - BasePage - INFO - Had find the element ' 你是谁? ' successful by xpath via value: .//*[@id='conditions_table']/tbody/tr[1]/td[1]/a 
+2018-05-16 11:02:39,609 - BasePage - INFO - The element ' 你是谁? ' was clicked.
+2018-05-16 11:02:41,371 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-16 11:02:41,432 - BasePage - INFO - Had find the element ' 员工工号 ' successful by id via value: employeecode 
+2018-05-16 11:02:41,455 - BasePage - INFO - Current page title is [237]怡亚通集团管控系统平台(05152143 )

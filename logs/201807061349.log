@@ -1,0 +1,12 @@
+2018-07-06 13:49:48,623 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-06 13:49:48,623 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-07-06 13:49:52,877 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-06 13:49:56,294 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-07-06 13:49:56,294 - BrowserEngine - INFO - Maximize the current window.
+2018-07-06 13:49:56,303 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-06 13:49:57,681 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-06 13:49:57,681 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-07-06 13:50:02,139 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-06 13:50:05,077 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-07-06 13:50:05,077 - BrowserEngine - INFO - Maximize the current window.
+2018-07-06 13:50:05,088 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

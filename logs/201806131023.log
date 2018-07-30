@@ -1,0 +1,14 @@
+2018-06-13 10:23:33,686 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="845200abd1a7b0dce41e6ba4113c666b")> browser.
+2018-06-13 10:23:33,928 - MYtest - INFO - browser maximize the current window.
+2018-06-13 10:23:33,934 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-13 10:23:43,324 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-13 10:23:43,496 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-13 10:23:43,997 - BasePage - INFO - Sleep for 0 seconds
+2018-06-13 10:23:44,063 - BasePage - INFO - Had find the element ' IT服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[9]/p 
+2018-06-13 10:23:44,199 - BasePage - INFO - The element ' IT服务 ' was clicked.
+2018-06-13 10:23:44,397 - BasePage - INFO - Had find the element ' BUG-LIST ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[9]/div/div[2]/p 
+2018-06-13 10:23:44,502 - BasePage - INFO - The element ' BUG-LIST ' was clicked.
+2018-06-13 10:23:44,602 - BasePage - INFO - Sleep for 0 seconds
+2018-06-13 10:23:44,670 - BasePage - INFO - Had find the element ' Bug ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[9]/div/div[2]/div/p[1] 
+2018-06-13 10:23:45,980 - BasePage - INFO - The element ' Bug ' was clicked.
+2018-06-13 10:23:46,098 - BasePage - INFO - Into the frame is % iframe ***

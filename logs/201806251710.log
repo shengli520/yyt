@@ -1,0 +1,14 @@
+2018-06-25 17:10:11,533 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="0c7cfa6dfe8ae7aa0ed833d84dd10b7b")> browser.
+2018-06-25 17:10:11,989 - MYtest - INFO - browser maximize the current window.
+2018-06-25 17:10:11,991 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 17:10:29,015 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="5873b7239aaaf82f3bfe8a76a7703afb")> browser.
+2018-06-25 17:10:29,262 - MYtest - INFO - browser maximize the current window.
+2018-06-25 17:10:29,265 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 17:10:36,244 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 17:10:36,347 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 17:10:36,848 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 17:10:36,904 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 17:10:37,019 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 17:10:37,161 - BasePage - INFO - Had find the element ' 名片管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[8]/p 
+2018-06-25 17:10:37,364 - BasePage - INFO - The element ' 名片管理 ' was clicked.
+2018-06-25 17:10:37,464 - BasePage - INFO - Sleep for 0 seconds

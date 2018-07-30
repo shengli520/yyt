@@ -1,0 +1,13 @@
+2018-06-19 11:18:32,070 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="a829e04e197cee71dd055c7dee69a566")> browser.
+2018-06-19 11:18:32,345 - MYtest - INFO - browser maximize the current window.
+2018-06-19 11:18:32,353 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-19 11:18:39,079 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-19 11:18:39,190 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-19 11:18:39,690 - BasePage - INFO - Sleep for 0 seconds
+2018-06-19 11:18:39,761 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-19 11:18:39,878 - BasePage - INFO - The element ' 印章管理 ' was clicked.
+2018-06-19 11:18:40,020 - BasePage - INFO - Had find the element ' 印章刻制申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[1]/p 
+2018-06-19 11:18:46,323 - BasePage - INFO - The element ' 印章刻制申请 ' was clicked.
+2018-06-19 11:18:46,355 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-19 11:18:49,738 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-19 11:18:49,748 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

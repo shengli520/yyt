@@ -1,0 +1,55 @@
+2018-06-20 09:54:51,429 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="1353856b5f6b31a263fb736052c574e0")> browser.
+2018-06-20 09:54:54,517 - MYtest - INFO - browser maximize the current window.
+2018-06-20 09:54:54,525 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-20 09:55:10,411 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-20 09:55:10,653 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-20 09:55:11,153 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 09:55:11,220 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-20 09:55:11,349 - BasePage - INFO - The element ' 印章管理 ' was clicked.
+2018-06-20 09:55:11,497 - BasePage - INFO - Had find the element ' 印章刻制申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[1]/p 
+2018-06-20 09:55:16,746 - BasePage - INFO - The element ' 印章刻制申请 ' was clicked.
+2018-06-20 09:55:16,782 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-20 09:55:21,047 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-20 09:55:21,060 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-20 09:55:25,772 - MYtest - INFO - browser maximize the current window.
+2018-06-20 09:55:25,775 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-20 09:55:29,583 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-20 09:55:29,719 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-20 09:55:30,220 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 09:55:30,291 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-20 09:55:30,403 - BasePage - INFO - The element ' 印章管理 ' was clicked.
+2018-06-20 09:55:30,551 - BasePage - INFO - Had find the element ' 印章登记查询 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[2]/p 
+2018-06-20 09:55:31,124 - BasePage - INFO - The element ' 印章登记查询 ' was clicked.
+2018-06-20 09:55:31,172 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-20 09:55:33,012 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-20 09:55:33,020 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-20 09:55:37,460 - MYtest - INFO - browser maximize the current window.
+2018-06-20 09:55:37,465 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-20 09:55:41,736 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-20 09:55:41,873 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-20 09:55:42,373 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 09:55:42,420 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-20 09:55:42,555 - BasePage - INFO - The element ' 印章管理 ' was clicked.
+2018-06-20 09:55:42,661 - BasePage - INFO - Had find the element ' 印章使用申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[3]/p 
+2018-06-20 09:55:43,199 - BasePage - INFO - The element ' 印章使用申请 ' was clicked.
+2018-06-20 09:55:43,242 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-20 09:55:44,511 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-20 09:55:44,521 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-20 09:55:48,459 - MYtest - INFO - browser maximize the current window.
+2018-06-20 09:55:48,464 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-20 09:55:52,514 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-20 09:55:52,608 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-20 09:55:53,108 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 09:55:53,225 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-20 09:55:53,435 - BasePage - INFO - The element ' 印章管理 ' was clicked.
+2018-06-20 09:55:53,554 - BasePage - INFO - Had find the element ' 印章使用申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[3]/p 
+2018-06-20 09:55:53,707 - BasePage - INFO - The element ' 印章使用申请 ' was clicked.
+2018-06-20 09:56:06,968 - MYtest - INFO - browser maximize the current window.
+2018-06-20 09:56:06,970 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-20 09:56:10,743 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-20 09:56:10,842 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-20 09:56:11,343 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 09:56:11,406 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-20 09:56:11,517 - BasePage - INFO - The element ' 印章管理 ' was clicked.
+2018-06-20 09:56:11,639 - BasePage - INFO - Had find the element ' 借转.报废申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[4]/p 
+2018-06-20 09:56:13,416 - BasePage - INFO - The element ' 借转.报废申请 ' was clicked.

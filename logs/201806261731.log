@@ -1,0 +1,39 @@
+2018-06-26 17:31:35,928 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="1e2d79875cc9b5cff8275fdc82214a8a")> browser.
+2018-06-26 17:31:36,190 - MYtest - INFO - browser maximize the current window.
+2018-06-26 17:31:36,194 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-26 17:31:43,549 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-26 17:31:43,659 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-26 17:31:44,160 - BasePage - INFO - Sleep for 0 seconds
+2018-06-26 17:31:44,223 - BasePage - INFO - Had find the element ' 单位管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[5]/p 
+2018-06-26 17:31:44,336 - BasePage - INFO - The element ' 单位管理 ' was clicked.
+2018-06-26 17:31:44,503 - BasePage - INFO - Had find the element ' 单位信息查询 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[5]/div/div[1]/p 
+2018-06-26 17:31:45,064 - BasePage - INFO - The element ' 单位信息查询 ' was clicked.
+2018-06-26 17:31:45,090 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-26 17:31:47,609 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-26 17:31:47,621 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-26 17:31:49,553 - MYtest - INFO - browser maximize the current window.
+2018-06-26 17:31:49,555 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-26 17:31:51,218 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-26 17:31:51,359 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-26 17:31:51,860 - BasePage - INFO - Sleep for 0 seconds
+2018-06-26 17:31:51,915 - BasePage - INFO - Had find the element ' 单位管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[5]/p 
+2018-06-26 17:31:52,036 - BasePage - INFO - The element ' 单位管理 ' was clicked.
+2018-06-26 17:31:52,136 - BasePage - INFO - Sleep for 0 seconds
+2018-06-26 17:31:52,198 - BasePage - INFO - Had find the element ' 单位业务申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[5]/div/div[2]/p 
+2018-06-26 17:31:52,743 - BasePage - INFO - The element ' 单位业务申请 ' was clicked.
+2018-06-26 17:31:52,771 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-26 17:31:54,104 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-26 17:31:54,115 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-26 17:31:56,032 - MYtest - INFO - browser maximize the current window.
+2018-06-26 17:31:56,035 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-26 17:31:57,667 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-26 17:31:57,783 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-26 17:31:58,283 - BasePage - INFO - Sleep for 0 seconds
+2018-06-26 17:31:58,347 - BasePage - INFO - Had find the element ' 单位管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[5]/p 
+2018-06-26 17:31:58,475 - BasePage - INFO - The element ' 单位管理 ' was clicked.
+2018-06-26 17:31:58,576 - BasePage - INFO - Sleep for 0 seconds
+2018-06-26 17:31:58,639 - BasePage - INFO - Had find the element ' 业务进度查询 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[5]/div/div[3]/p 
+2018-06-26 17:31:59,250 - BasePage - INFO - The element ' 业务进度查询 ' was clicked.
+2018-06-26 17:31:59,278 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-26 17:32:00,439 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-26 17:32:00,454 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

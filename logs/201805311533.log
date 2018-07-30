@@ -1,0 +1,34 @@
+2018-05-31 15:33:53,113 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="5c356e6d5a818581ee86e82c18c0601f")> browser.
+2018-05-31 15:33:53,382 - MYtest - INFO - browser maximize the current window.
+2018-05-31 15:33:53,386 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-05-31 15:34:00,465 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-05-31 15:34:00,769 - BasePage - INFO - The element ' OA ' was clicked.
+2018-05-31 15:34:01,269 - BasePage - INFO - Sleep for 0 seconds
+2018-05-31 15:34:01,397 - BasePage - INFO - Had find the element ' 财务管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/p 
+2018-05-31 15:34:01,498 - BasePage - INFO - The element ' 财务管理 ' was clicked.
+2018-05-31 15:34:01,649 - BasePage - INFO - Had find the element ' 预算管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[8]/p 
+2018-05-31 15:34:01,742 - BasePage - INFO - The element ' 预算管理 ' was clicked.
+2018-05-31 15:34:02,042 - BasePage - INFO - Sleep for 0 seconds
+2018-05-31 15:34:02,122 - BasePage - INFO - Had find the element ' 预算申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[8]/div/p[1] 
+2018-05-31 15:34:04,883 - BasePage - INFO - The element ' 预算申请 ' was clicked.
+2018-05-31 15:34:04,920 - BasePage - INFO - Into the frame is % iframe ***
+2018-05-31 15:34:06,101 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-31 15:34:06,158 - BasePage - INFO - Had find the element ' 预算部门 ' successful by xpath via value: html/body/table/tbody/tr[3]/td/table/tbody/tr/td[5] 
+2018-05-31 15:34:06,177 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-05-31 15:34:07,183 - MYtest - INFO - browser maximize the current window.
+2018-05-31 15:34:07,190 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-05-31 15:34:08,068 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-05-31 15:34:08,313 - BasePage - INFO - The element ' OA ' was clicked.
+2018-05-31 15:34:08,813 - BasePage - INFO - Sleep for 0 seconds
+2018-05-31 15:34:08,996 - BasePage - INFO - Had find the element ' 财务管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/p 
+2018-05-31 15:34:09,184 - BasePage - INFO - The element ' 财务管理 ' was clicked.
+2018-05-31 15:34:09,317 - BasePage - INFO - Had find the element ' 预算管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[8]/p 
+2018-05-31 15:34:09,411 - BasePage - INFO - The element ' 预算管理 ' was clicked.
+2018-05-31 15:34:09,811 - BasePage - INFO - Sleep for 0 seconds
+2018-05-31 15:34:09,892 - BasePage - INFO - Had find the element ' 预算调整 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[8]/div/p[2] 
+2018-05-31 15:34:10,421 - BasePage - INFO - The element ' 预算调整 ' was clicked.
+2018-05-31 15:34:10,447 - BasePage - INFO - Into the frame is % iframe ***
+2018-05-31 15:34:11,564 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-31 15:34:11,624 - BasePage - INFO - Had find the element ' 预算年度 ' successful by xpath via value: html/body/table/tbody/tr[3]/td/table/tbody/tr/td[3] 
+2018-05-31 15:34:11,643 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-05-31 15:34:11,650 - BasePage - INFO - back frame

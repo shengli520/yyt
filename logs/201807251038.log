@@ -1,0 +1,117 @@
+2018-07-25 10:38:31,048 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="f06076cf0674310bccc4571b63250974")> browser.
+2018-07-25 10:38:31,319 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:38:31,324 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:38:38,741 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:38:38,866 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:38:39,366 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:38:39,423 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:38:39,554 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:38:39,654 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:38:39,709 - BasePage - INFO - Had find the element ' 员工档案 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/p 
+2018-07-25 10:38:40,281 - BasePage - INFO - The element ' 员工档案 ' was clicked.
+2018-07-25 10:38:40,321 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:38:41,439 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:38:41,454 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:38:43,299 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:38:43,302 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:38:45,299 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:38:45,420 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:38:45,920 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:38:45,969 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:38:46,092 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:38:46,192 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:38:46,241 - BasePage - INFO - Had find the element ' 编外员工 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/p 
+2018-07-25 10:38:46,791 - BasePage - INFO - The element ' 编外员工 ' was clicked.
+2018-07-25 10:38:46,821 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:38:48,318 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:38:48,328 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:38:50,453 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:38:50,456 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:38:52,667 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:38:52,785 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:38:53,285 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:38:53,346 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:38:53,455 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:38:53,555 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:38:53,616 - BasePage - INFO - Had find the element ' 员工合同 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-07-25 10:38:55,169 - BasePage - INFO - The element ' 员工合同 ' was clicked.
+2018-07-25 10:38:55,195 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:38:56,481 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:38:56,493 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:38:58,663 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:38:58,666 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:39:00,517 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:39:00,637 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:39:01,138 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:01,193 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:39:01,313 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:39:01,414 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:01,472 - BasePage - INFO - Had find the element ' 人事异动 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[4]/p 
+2018-07-25 10:39:02,592 - BasePage - INFO - The element ' 人事异动 ' was clicked.
+2018-07-25 10:39:02,617 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:39:05,182 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:39:05,199 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:39:08,561 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:39:08,563 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:39:10,688 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:39:10,821 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:39:11,321 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:11,377 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:39:11,516 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:39:11,619 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:11,728 - BasePage - INFO - Had find the element ' 实习生解约 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[5]/p 
+2018-07-25 10:39:13,755 - BasePage - INFO - The element ' 实习生解约 ' was clicked.
+2018-07-25 10:39:13,787 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:39:14,890 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:39:14,901 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:39:16,999 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:39:17,002 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:39:19,127 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:39:19,257 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:39:19,757 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:19,826 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:39:19,956 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:39:20,058 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:20,123 - BasePage - INFO - Had find the element ' 离职申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[6]/p 
+2018-07-25 10:39:21,092 - BasePage - INFO - The element ' 离职申请 ' was clicked.
+2018-07-25 10:39:21,120 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:39:23,026 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:39:23,037 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:39:25,329 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:39:25,333 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:39:27,593 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:39:27,710 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:39:28,212 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:28,281 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:39:28,403 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:39:28,504 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:28,570 - BasePage - INFO - Had find the element ' 离职交接 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[7]/p 
+2018-07-25 10:39:29,702 - BasePage - INFO - The element ' 离职交接 ' was clicked.
+2018-07-25 10:39:29,730 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:39:31,399 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:39:31,408 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:39:33,458 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:39:33,461 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:39:35,913 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:39:36,025 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:39:36,527 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:36,599 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:39:36,750 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:39:36,850 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:36,907 - BasePage - INFO - Had find the element ' 追缴流程 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[8]/p 
+2018-07-25 10:39:37,300 - BasePage - INFO - The element ' 追缴流程 ' was clicked.
+2018-07-25 10:39:37,337 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:39:38,407 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:39:38,419 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:39:40,664 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:39:40,667 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:39:43,182 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:39:43,401 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:39:43,902 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:43,957 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:39:44,100 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:39:44,200 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:39:44,277 - BasePage - INFO - Had find the element ' 户口调动 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[9]/p 
+2018-07-25 10:39:44,820 - BasePage - INFO - The element ' 户口调动 ' was clicked.
+2018-07-25 10:39:44,850 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:39:46,100 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

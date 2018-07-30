@@ -1,0 +1,37 @@
+2018-06-25 10:31:15,340 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="e1ad3a96b377a8c2e03d4668dbe4e2fa")> browser.
+2018-06-25 10:31:15,650 - MYtest - INFO - browser maximize the current window.
+2018-06-25 10:31:15,659 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 10:31:24,463 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 10:31:24,612 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 10:31:25,113 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 10:31:25,183 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 10:31:25,329 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 10:31:25,460 - BasePage - INFO - Had find the element ' 快递管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/p 
+2018-06-25 10:31:25,592 - BasePage - INFO - The element ' 快递管理 ' was clicked.
+2018-06-25 10:31:25,866 - BasePage - INFO - Had find the element ' 快件接收 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[1] 
+2018-06-25 10:31:26,500 - BasePage - INFO - The element ' 快件接收 ' was clicked.
+2018-06-25 10:31:26,559 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-25 10:31:28,767 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-25 10:31:28,788 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-25 10:31:30,603 - MYtest - INFO - browser maximize the current window.
+2018-06-25 10:31:30,606 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 10:31:32,449 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 10:31:32,593 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 10:31:33,093 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 10:31:33,163 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 10:31:33,301 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 10:31:33,480 - BasePage - INFO - Had find the element ' 快递管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/p 
+2018-06-25 10:31:33,634 - BasePage - INFO - The element ' 快递管理 ' was clicked.
+2018-06-25 10:31:33,902 - BasePage - INFO - Had find the element '  ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[2] 
+2018-06-25 10:31:35,948 - MYtest - INFO - browser maximize the current window.
+2018-06-25 10:31:35,956 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 10:31:38,053 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 10:31:38,222 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 10:31:38,723 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 10:31:38,778 - BasePage - INFO - Had find the element ' 工作报告 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 10:31:40,483 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 10:31:50,555 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ea-scroll']/div/div[4]/div/div[7]/p"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-06-25 10:31:50,971 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

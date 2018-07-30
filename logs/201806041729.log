@@ -1,0 +1,16 @@
+2018-06-04 17:29:05,178 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="a0f14015d792c1495ac859330e99f6a0")> browser.
+2018-06-04 17:29:05,477 - MYtest - INFO - browser maximize the current window.
+2018-06-04 17:29:05,481 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-04 17:29:11,316 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-04 17:29:11,824 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-04 17:29:12,325 - BasePage - INFO - Sleep for 0 seconds
+2018-06-04 17:29:12,394 - BasePage - INFO - Had find the element ' EAͨѶ¼ ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/p 
+2018-06-04 17:29:12,545 - BasePage - INFO - The element ' EAͨѶ¼ ' was clicked.
+2018-06-04 17:29:51,109 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="5250ae8f6e7e47da8a1d5134223668ee")> browser.
+2018-06-04 17:29:51,357 - MYtest - INFO - browser maximize the current window.
+2018-06-04 17:29:51,371 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-04 17:29:56,991 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-04 17:29:57,194 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-04 17:29:57,694 - BasePage - INFO - Sleep for 0 seconds
+2018-06-04 17:29:57,755 - BasePage - INFO - Had find the element ' EAͨѶ¼ ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/p 
+2018-06-04 17:29:57,880 - BasePage - INFO - The element ' EAͨѶ¼ ' was clicked.

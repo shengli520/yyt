@@ -1,0 +1,14 @@
+2018-07-04 15:34:08,612 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="ee7d2c5c3078b8d9069758836fff693e")> browser.
+2018-07-04 15:34:08,919 - MYtest - INFO - browser maximize the current window.
+2018-07-04 15:34:08,929 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-04 15:34:16,048 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-04 15:34:16,195 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-04 15:34:16,697 - BasePage - INFO - Sleep for 0 seconds
+2018-07-04 15:34:16,770 - BasePage - INFO - Had find the element ' 资产管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-04 15:34:16,918 - BasePage - INFO - The element ' 资产管理 ' was clicked.
+2018-07-04 15:34:17,022 - BasePage - INFO - Had find the element ' 固定资产管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/p 
+2018-07-04 15:34:17,148 - BasePage - INFO - The element ' 固定资产管理 ' was clicked.
+2018-07-04 15:34:17,348 - BasePage - INFO - Sleep for 0 seconds
+2018-07-04 15:34:17,433 - BasePage - INFO - Had find the element ' 资产领用申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/div/p[1] 
+2018-07-04 15:34:18,270 - BasePage - INFO - The element ' 资产领用申请 ' was clicked.
+2018-07-04 15:34:18,311 - BasePage - INFO - Into the frame is % iframe ***

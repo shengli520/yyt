@@ -1,0 +1,44 @@
+2018-06-11 14:25:27,600 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="df7a6d3de44c18ed61a1ab7a592c7975")> browser.
+2018-06-11 14:25:27,968 - MYtest - INFO - browser maximize the current window.
+2018-06-11 14:25:27,983 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 14:25:35,125 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 14:25:35,404 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 14:25:35,904 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 14:25:36,002 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 14:25:36,150 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 14:25:36,361 - BasePage - INFO - Had find the element ' 异常管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/p 
+2018-06-11 14:25:36,484 - BasePage - INFO - The element ' 异常管理 ' was clicked.
+2018-06-11 14:25:36,562 - BasePage - INFO - Had find the element ' 运作异常 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/div/p[1] 
+2018-06-11 14:25:38,034 - MYtest - INFO - browser maximize the current window.
+2018-06-11 14:25:38,037 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 14:25:39,200 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 14:25:39,362 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 14:25:39,863 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 14:25:39,926 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 14:25:40,057 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 14:25:40,232 - BasePage - INFO - Had find the element ' 异常管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/p 
+2018-06-11 14:25:40,389 - BasePage - INFO - The element ' 异常管理 ' was clicked.
+2018-06-11 14:25:40,513 - BasePage - INFO - Had find the element ' 异常赔偿费用 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/div/p[2] 
+2018-06-11 14:25:41,771 - MYtest - INFO - browser maximize the current window.
+2018-06-11 14:25:41,777 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 14:25:43,003 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 14:25:43,181 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 14:25:43,681 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 14:25:43,739 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 14:25:43,951 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 14:25:44,223 - BasePage - INFO - Had find the element ' 异常管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/p 
+2018-06-11 14:25:44,452 - BasePage - INFO - The element ' 异常管理 ' was clicked.
+2018-06-11 14:25:44,568 - BasePage - INFO - Had find the element ' 应收款库存异常 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/div/p[3] 
+2018-06-11 14:25:46,601 - BasePage - INFO - The element '  ' was clicked.
+2018-06-11 14:25:46,638 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 14:25:47,658 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-11 14:25:48,791 - MYtest - INFO - browser maximize the current window.
+2018-06-11 14:25:48,796 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 14:25:50,496 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 14:25:50,702 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 14:25:51,203 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 14:25:51,279 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 14:25:51,464 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 14:25:51,607 - BasePage - INFO - Had find the element ' 异常管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/p 
+2018-06-11 14:25:51,740 - BasePage - INFO - The element ' 异常管理 ' was clicked.
+2018-06-11 14:25:51,805 - BasePage - INFO - Had find the element ' 货权转移查询 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/div/p[4] 

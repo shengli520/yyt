@@ -1,0 +1,27 @@
+2018-07-23 09:12:30,929 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="309ff78c4201e7e9fd0e732f1fbd543e")> browser.
+2018-07-23 09:12:31,323 - MYtest - INFO - browser maximize the current window.
+2018-07-23 09:12:31,325 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-23 09:12:39,705 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-23 09:12:39,827 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-23 09:12:40,328 - BasePage - INFO - Sleep for 0 seconds
+2018-07-23 09:12:40,393 - BasePage - INFO - Had find the element ' 云计划 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/p 
+2018-07-23 09:12:40,524 - BasePage - INFO - The element ' 云计划 ' was clicked.
+2018-07-23 09:12:40,625 - BasePage - INFO - Sleep for 0 seconds
+2018-07-23 09:12:40,683 - BasePage - INFO - Had find the element ' 云计划项目申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[1]/p 
+2018-07-23 09:12:42,327 - BasePage - INFO - The element ' 云计划项目申请 ' was clicked.
+2018-07-23 09:12:42,363 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-23 09:12:43,490 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-23 09:12:43,502 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-23 09:12:45,091 - MYtest - INFO - browser maximize the current window.
+2018-07-23 09:12:45,093 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-23 09:12:46,579 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-23 09:12:46,698 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-23 09:12:47,198 - BasePage - INFO - Sleep for 0 seconds
+2018-07-23 09:12:47,255 - BasePage - INFO - Had find the element ' 云计划 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/p 
+2018-07-23 09:12:47,380 - BasePage - INFO - The element ' 云计划 ' was clicked.
+2018-07-23 09:12:47,481 - BasePage - INFO - Sleep for 0 seconds
+2018-07-23 09:12:47,537 - BasePage - INFO - Had find the element ' 国代资料库 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[2]/p 
+2018-07-23 09:12:48,836 - BasePage - INFO - The element ' 国代资料库 ' was clicked.
+2018-07-23 09:12:48,863 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-23 09:12:49,971 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-23 09:12:49,982 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

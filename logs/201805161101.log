@@ -1,0 +1,8 @@
+2018-05-16 11:01:29,514 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 11:01:29,514 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-05-16 11:01:31,597 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 11:01:33,639 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-16 11:01:33,639 - BrowserEngine - INFO - Maximize the current window.
+2018-05-16 11:01:33,651 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 11:01:37,662 - BasePage - INFO - The element '  OAϵͳ ' was clicked.
+2018-05-16 11:01:37,667 - BasePage - INFO - wait for 10 seconds.

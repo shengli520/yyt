@@ -1,0 +1,33 @@
+2018-06-04 11:03:04,860 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="2e77849801c32c2cd0602f21ce95bfe4")> browser.
+2018-06-04 11:03:05,168 - MYtest - INFO - browser maximize the current window.
+2018-06-04 11:03:05,173 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-04 11:03:12,060 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-04 11:03:12,414 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-04 11:03:12,915 - BasePage - INFO - Sleep for 0 seconds
+2018-06-04 11:03:13,319 - BasePage - INFO - Had find the element ' 财务管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/p 
+2018-06-04 11:03:13,464 - BasePage - INFO - The element ' 财务管理 ' was clicked.
+2018-06-04 11:03:13,675 - BasePage - INFO - Had find the element ' 押金项目 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[9]/p 
+2018-06-04 11:03:13,780 - BasePage - INFO - The element ' 押金项目 ' was clicked.
+2018-06-04 11:03:14,280 - BasePage - INFO - Sleep for 0 seconds
+2018-06-04 11:03:14,363 - BasePage - INFO - Had find the element ' 押金记录 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[9]/div/p[1] 
+2018-06-04 11:03:18,772 - BasePage - INFO - The element ' 押金记录 ' was clicked.
+2018-06-04 11:03:18,831 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-04 11:03:21,045 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-04 11:03:21,111 - BasePage - INFO - Had find the element ' 押金金额 ' successful by id via value: depositamount 
+2018-06-04 11:03:21,136 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-04 11:03:22,249 - MYtest - INFO - browser maximize the current window.
+2018-06-04 11:03:22,260 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-04 11:03:23,463 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-04 11:03:23,605 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-04 11:03:24,106 - BasePage - INFO - Sleep for 0 seconds
+2018-06-04 11:03:24,241 - BasePage - INFO - Had find the element ' 财务管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/p 
+2018-06-04 11:03:24,417 - BasePage - INFO - The element ' 财务管理 ' was clicked.
+2018-06-04 11:03:24,594 - BasePage - INFO - Had find the element ' 押金项目 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[9]/p 
+2018-06-04 11:03:24,714 - BasePage - INFO - The element ' 押金项目 ' was clicked.
+2018-06-04 11:03:25,214 - BasePage - INFO - Sleep for 0 seconds
+2018-06-04 11:03:25,281 - BasePage - INFO - Had find the element ' 押金流程 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[3]/div/div[9]/div/p[2] 
+2018-06-04 11:03:27,300 - BasePage - INFO - The element ' 押金流程 ' was clicked.
+2018-06-04 11:03:27,333 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-04 11:03:28,594 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-04 11:03:28,692 - BasePage - INFO - Had find the element ' 币种 ' successful by id via value: currency 
+2018-06-04 11:03:28,738 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

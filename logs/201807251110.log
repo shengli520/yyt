@@ -1,0 +1,20 @@
+2018-07-25 11:10:26,527 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="137c303f099f69eefd45639111cf63f5")> browser.
+2018-07-25 11:10:26,762 - MYtest - INFO - browser maximize the current window.
+2018-07-25 11:10:26,770 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 11:10:34,465 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 11:10:34,607 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 11:10:35,107 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 11:10:35,183 - BasePage - INFO - Had find the element ' 工作计划管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/p 
+2018-07-25 11:10:35,352 - BasePage - INFO - The element ' 工作计划管理 ' was clicked.
+2018-07-25 11:10:35,452 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 11:10:35,552 - BasePage - INFO - Had find the element ' 工作报告管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/div/div[1]/p 
+2018-07-25 11:10:38,120 - BasePage - INFO - The element ' 工作报告管理 ' was clicked.
+2018-07-25 11:10:38,153 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 11:10:52,830 - MYtest - INFO - browser maximize the current window.
+2018-07-25 11:10:52,833 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 11:10:54,632 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 11:10:54,772 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 11:10:55,272 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 11:10:55,342 - BasePage - INFO - Had find the element ' 工作计划管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/p 
+2018-07-25 11:10:55,496 - BasePage - INFO - The element ' 工作计划管理 ' was clicked.
+2018-07-25 11:10:55,598 - BasePage - INFO - Sleep for 0 seconds

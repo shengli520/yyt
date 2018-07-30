@@ -1,0 +1,14 @@
+2018-07-09 10:45:01,164 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="48bbf81d440bb71d155c22dfbf045c9e")> browser.
+2018-07-09 10:45:01,405 - MYtest - INFO - browser maximize the current window.
+2018-07-09 10:45:01,409 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-09 10:45:07,706 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-09 10:45:07,794 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-09 10:45:08,295 - BasePage - INFO - Sleep for 0 seconds
+2018-07-09 10:45:08,350 - BasePage - INFO - Had find the element ' 档案管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/p 
+2018-07-09 10:45:08,451 - BasePage - INFO - The element ' 档案管理 ' was clicked.
+2018-07-09 10:45:08,551 - BasePage - INFO - Sleep for 0 seconds
+2018-07-09 10:45:08,599 - BasePage - INFO - Had find the element ' 公司发文管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/div/div[5]/p 
+2018-07-09 10:45:12,016 - BasePage - INFO - The element ' 公司发文管理 ' was clicked.
+2018-07-09 10:45:12,037 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-09 10:45:13,312 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-09 10:45:13,320 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

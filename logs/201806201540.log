@@ -1,0 +1,15 @@
+2018-06-20 15:40:34,869 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="e862b750ca4a7b1feafa7949a950f979")> browser.
+2018-06-20 15:40:35,161 - MYtest - INFO - browser maximize the current window.
+2018-06-20 15:40:35,177 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-20 15:40:45,342 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-20 15:40:45,494 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-20 15:40:45,994 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 15:40:46,052 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-20 15:40:46,185 - BasePage - INFO - The element ' 印章管理 ' was clicked.
+2018-06-20 15:40:46,264 - BasePage - INFO - Had find the element ' 证照管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/p 
+2018-06-20 15:40:46,434 - BasePage - INFO - The element ' 证照管理 ' was clicked.
+2018-06-20 15:40:46,534 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 15:40:46,594 - BasePage - INFO - Had find the element ' 证照登记查询 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/div/div[1]/p 
+2018-06-20 15:40:48,487 - BasePage - INFO - The element ' 证照登记查询 ' was clicked.
+2018-06-20 15:40:48,541 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-20 15:40:50,030 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

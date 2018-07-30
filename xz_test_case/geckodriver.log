@@ -1,0 +1,295 @@
+1529905769439	geckodriver	INFO	geckodriver 0.18.0
+1529905769463	geckodriver	INFO	Listening on 127.0.0.1:49934
+1529905770184	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1529905772403	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1529905773457	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+1529905782200	Marionette	INFO	Listening on port 49940
+1529905782282	Marionette	INFO	Listening on port 49940
+1529905782410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529905782546	Marionette	DEBUG	loaded listener.js
+1529905783045	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529905783252	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529905783253	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529905783376	addons.productaddons	ERROR	Request failed certificate checks: [Exception... "Certificate checks failed. See previous errors for details."  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/CertUtils.jsm :: validateCert :: line 113"  data: no]
+1529905784463	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/eaoa/"
+1529905786041	Marionette	DEBUG	Received DOM event "beforeunload" for "http://cas.eascs.com/cas/login?locale=zh_CN&service=http%3A%2F%2Fpermission.api.eascs.com%2Fcommon%2Fredirect%3Furi%3Dhttp%253A%252F%252Foa.eascs.com%252Feaoa%252F"
+1529905786308	Marionette	DEBUG	Received DOM event "pagehide" for "http://cas.eascs.com/cas/login?locale=zh_CN&service=http%3A%2F%2Fpermission.api.eascs.com%2Fcommon%2Fredirect%3Furi%3Dhttp%253A%252F%252Foa.eascs.com%252Feaoa%252F"
+1529905786308	Marionette	DEBUG	Received DOM event "unload" for "http://cas.eascs.com/cas/login?locale=zh_CN&service=http%3A%2F%2Fpermission.api.eascs.com%2Fcommon%2Fredirect%3Furi%3Dhttp%253A%252F%252Foa.eascs.com%252Feaoa%252F"
+1529905786760	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/eaoa/?token=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJqd3QiLCJpYXQiOjE1Mjk5MDU3ODMsInN1YiI6InNoZW5nbGkuemhlbmciLCJleHAiOjE1Mjk5MDU3OTN9.s1DygYUDt_ZzlZ1tnJshzxJUzg02coExniD2kkShzJs"
+1529905786763	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/eaoa/?token=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJqd3QiLCJpYXQiOjE1Mjk5MDU3ODMsInN1YiI6InNoZW5nbGkuemhlbmciLCJleHAiOjE1Mjk5MDU3OTN9.s1DygYUDt_ZzlZ1tnJshzxJUzg02coExniD2kkShzJs"
+1529905788516	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905789541	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905789562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905790103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905791275	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905791455	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905791456	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905791999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1529905792000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1529905792214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/"
+1529905793031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905793045	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905795206	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905795208	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905795278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905795317	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905795320	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+1529905796020	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905796127	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905796127	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905796333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1529905796335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1529905796338	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1529905796530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/eaoa/"
+1529905797062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905797072	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905798140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905798143	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905798264	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905798297	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905798302	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+1529905798737	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905799605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905799893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905800579	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905800714	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905800714	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905801275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1529905801277	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1529905801278	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1529905801622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/"
+1529905802563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905802567	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905804035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905804037	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905804131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905804235	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905804236	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+1529905805000	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905805024	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905805024	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905805363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/eaoa/"
+1529905805366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1529905805370	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1529905805371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1529905805995	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905805998	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905807140	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905807142	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905807323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905807339	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905807341	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+1529905807754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905808635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905808977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905809689	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905809848	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905809849	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905810379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1529905810380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1529905810380	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1529905810689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/"
+1529905811565	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905811575	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905813003	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905813005	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905813115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905813204	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905813205	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
+[Parent 14768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13344] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13344] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529905956055	geckodriver	INFO	geckodriver 0.18.0
+1529905956082	geckodriver	INFO	Listening on 127.0.0.1:50709
+1529905956581	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1529905958105	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1529905958986	Marionette	INFO	Enabled via --marionette
+1529905963174	Marionette	INFO	Listening on port 50713
+1529905963189	Marionette	INFO	Listening on port 50713
+1529905963266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529905963333	Marionette	DEBUG	loaded listener.js
+1529905963653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529905963820	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529905963820	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529905964798	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/eaoa/"
+1529905965839	Marionette	DEBUG	Received DOM event "beforeunload" for "http://cas.eascs.com/cas/login?locale=zh_CN&service=http%3A%2F%2Fpermission.api.eascs.com%2Fcommon%2Fredirect%3Furi%3Dhttp%253A%252F%252Foa.eascs.com%252Feaoa%252F"
+1529905966143	Marionette	DEBUG	Received DOM event "pagehide" for "http://cas.eascs.com/cas/login?locale=zh_CN&service=http%3A%2F%2Fpermission.api.eascs.com%2Fcommon%2Fredirect%3Furi%3Dhttp%253A%252F%252Foa.eascs.com%252Feaoa%252F"
+1529905966143	Marionette	DEBUG	Received DOM event "unload" for "http://cas.eascs.com/cas/login?locale=zh_CN&service=http%3A%2F%2Fpermission.api.eascs.com%2Fcommon%2Fredirect%3Furi%3Dhttp%253A%252F%252Foa.eascs.com%252Feaoa%252F"
+1529905966511	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/eaoa/?token=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJqd3QiLCJpYXQiOjE1Mjk5MDU5NjMsInN1YiI6InNoZW5nbGkuemhlbmciLCJleHAiOjE1Mjk5MDU5NzN9.Hzogm1ZbWlCF4R_c-fj-NhPpc8G5S2c_c0YpgI0AK9U"
+1529905966513	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/eaoa/?token=eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiJqd3QiLCJpYXQiOjE1Mjk5MDU5NjMsInN1YiI6InNoZW5nbGkuemhlbmciLCJleHAiOjE1Mjk5MDU5NzN9.Hzogm1ZbWlCF4R_c-fj-NhPpc8G5S2c_c0YpgI0AK9U"
+1529905968090	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905969316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905970559	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905972170	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905972693	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905972694	Marionette	DEBUG	Received DOM event "unload" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905972933	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearch.do?isReturn=NO"
+1529905972935	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearch.do?isReturn=NO"
+1529905972940	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1529905973147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearch.do?isReturn=NO"
+1529905973157	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearch.do?isReturn=NO"
+1529905973615	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905973699	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905973700	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905974327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1529905974329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1529905974331	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1529905974332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1529905974333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1529905974519	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905974852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905974858	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905975614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905975619	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905975763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905976018	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905976730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905976733	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905977059	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905977145	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905977148	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905977756	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905977786	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905977786	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/iframe?url=http%3A%2F%2Foa2.eascs.com%2Feaoa%2FexpressReceiveSearchPre.do"
+1529905977980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1529905977981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1529905977989	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1529905977990	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1529905977992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1529905978177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/eaoa/"
+1529905978718	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905978727	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905979528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905979530	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905979580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905979632	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905980090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905980094	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905980190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905980233	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905980237	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+1529905980652	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905981495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905981828	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905982526	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905982652	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905982653	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905983015	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1529905983454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/"
+1529905983455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1529905983456	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1529905983457	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1529905983458	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1529905983466	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483689"
+1529905984322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905984335	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905985827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905985829	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1529905986178	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905986355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905986357	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905986381	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905986480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905986573	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905986574	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+1529905987307	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905987614	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905987614	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905987991	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/eaoa/"
+1529905987992	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1529905987993	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1529905987996	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1529905987997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1529905987997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1529905988677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905988683	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905989440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905989441	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905989495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905989548	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905989920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905989921	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905989988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905990014	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905990016	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+1529905990426	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905991210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905991504	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529905992265	Marionette	DEBUG	Received DOM event "beforeunload" for "http://oa.eascs.com/"
+1529905992402	Marionette	DEBUG	Received DOM event "pagehide" for "http://oa.eascs.com/"
+1529905992402	Marionette	DEBUG	Received DOM event "unload" for "http://oa.eascs.com/"
+1529905993031	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1529905993032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1529905993032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1529905993032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1529905993035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1529905993220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa.eascs.com/"
+1529905994092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://ehr.eascs.com/"
+1529905994099	Marionette	DEBUG	Received DOM event "pageshow" for "http://ehr.eascs.com/"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905995220	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905995222	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905995503	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+JavaScript warning: http://oa2.eascs.com/eaoa/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://oa2.eascs.com/eaoa/js/zh_CN/selectdate.js, line 65: TypeError: window.frames.meizzDateLayer.document is undefined
+1529905996113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905996115	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905996228	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905996244	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/expressReceiveSearchPre.do"
+1529905996310	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa2.eascs.com/eaoa/employeeContactPre.do"
+1529905996312	Marionette	DEBUG	Received DOM event "pageshow" for "http://oa.eascs.com/"
+Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14828] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\user\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
+[Child 6140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 14828] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14192] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

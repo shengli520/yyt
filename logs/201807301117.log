@@ -1,0 +1,12 @@
+2018-07-30 11:17:47,715 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="eeee59fdae4125d1cce4a1e6d36fc7a3")> browser.
+2018-07-30 11:17:47,915 - MYtest - INFO - browser maximize the current window.
+2018-07-30 11:17:47,918 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-30 11:17:53,779 - BasePage - INFO - Had find the element ' CRM ' successful by xpath via value: .//*[@id='ea-system']/li[5] 
+2018-07-30 11:17:53,877 - BasePage - INFO - The element ' CRM ' was clicked.
+2018-07-30 11:17:54,377 - BasePage - INFO - Sleep for 0 seconds
+2018-07-30 11:17:54,455 - BasePage - INFO - Had find the element ' 客户导入 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-07-30 11:17:54,534 - BasePage - INFO - The element ' 客户导入 ' was clicked.
+2018-07-30 11:17:54,635 - BasePage - INFO - Sleep for 0 seconds
+2018-07-30 11:17:54,688 - BasePage - INFO - Had find the element ' 新建客户 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[1]/p 
+2018-07-30 11:17:55,144 - BasePage - INFO - The element ' 新建客户 ' was clicked.
+2018-07-30 11:18:03,674 - BasePage - INFO - Into the frame is % iframe ***

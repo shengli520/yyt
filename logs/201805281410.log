@@ -1,0 +1,6 @@
+2018-05-28 14:10:31,820 - MYtest - INFO - You had select Chrome browser.
+2018-05-28 14:10:32,350 - MYtest - INFO - Maximize the current window.
+2018-05-28 14:10:32,355 - MYtest - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-28 14:10:39,681 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-05-28 14:10:39,994 - BasePage - INFO - The element ' OA ' was clicked.
+2018-05-28 14:10:40,495 - BasePage - INFO - Sleep for 0 seconds

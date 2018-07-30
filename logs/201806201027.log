@@ -1,0 +1,8 @@
+2018-06-20 10:27:45,216 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="e177e040c96fdb8060fa6bf1afc5d382")> browser.
+2018-06-20 10:27:45,510 - MYtest - INFO - browser maximize the current window.
+2018-06-20 10:27:45,514 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-20 10:27:54,219 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-20 10:27:54,387 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-20 10:27:54,887 - BasePage - INFO - Sleep for 0 seconds
+2018-06-20 10:27:54,978 - BasePage - INFO - Had find the element ' 印章管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-20 10:27:55,127 - BasePage - INFO - The element ' 印章管理 ' was clicked.

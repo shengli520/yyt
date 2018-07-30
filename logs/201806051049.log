@@ -1,0 +1,14 @@
+2018-06-05 10:49:23,285 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="5e6b7affe754e4667f6c939244c6de5f")> browser.
+2018-06-05 10:49:23,597 - MYtest - INFO - browser maximize the current window.
+2018-06-05 10:49:23,608 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-05 10:49:30,049 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-05 10:49:30,635 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-05 10:49:31,135 - BasePage - INFO - Sleep for 0 seconds
+2018-06-05 10:49:31,190 - BasePage - INFO - Had find the element ' 税务管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-05 10:49:31,309 - BasePage - INFO - The element ' 税务管理 ' was clicked.
+2018-06-05 10:49:31,500 - BasePage - INFO - Had find the element ' 税务减免 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[2]/p 
+2018-06-05 10:49:36,263 - BasePage - INFO - The element ' 税务减免 ' was clicked.
+2018-06-05 10:49:36,303 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-05 10:49:38,801 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-05 10:49:38,866 - BasePage - INFO - Had find the element ' 税种 ' successful by xpath via value: html/body/table[3]/tbody/tr/td[5] 
+2018-06-05 10:49:38,895 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

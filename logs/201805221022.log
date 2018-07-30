@@ -1,0 +1,17 @@
+2018-05-22 10:22:41,211 - MYtest - INFO - You had select Chrome browser.
+2018-05-22 10:22:41,511 - MYtest - INFO - Maximize the current window.
+2018-05-22 10:22:41,516 - MYtest - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-22 10:22:48,929 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-05-22 10:22:49,583 - BasePage - INFO - The element ' OA ' was clicked.
+2018-05-22 10:22:50,084 - BasePage - INFO - Sleep for 0 seconds
+2018-05-22 10:22:50,148 - BasePage - INFO - Had find the element ' EA通讯录 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/p 
+2018-05-22 10:22:50,258 - BasePage - INFO - The element ' EA通讯录 ' was clicked.
+2018-05-22 10:22:50,401 - BasePage - INFO - Had find the element ' 员工通讯录 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/div/div/p 
+2018-05-22 10:22:54,668 - BasePage - INFO - The element ' 员工通讯录 ' was clicked.
+2018-05-22 10:22:54,869 - BasePage - INFO - Sleep for 0 seconds
+2018-05-22 10:22:54,899 - BasePage - INFO - Into the frame is % iframe ***
+2018-05-22 10:22:54,990 - BasePage - INFO - Had find the element ' 你是谁? ' successful by xpath via value: .//*[@id='conditions_table']/tbody/tr[1]/td[1]/a 
+2018-05-22 10:22:55,154 - BasePage - INFO - The element ' 你是谁? ' was clicked.
+2018-05-22 10:22:56,924 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-22 10:22:57,005 - BasePage - INFO - Had find the element ' 员工工号 ' successful by id via value: employeecode 
+2018-05-22 10:22:57,042 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

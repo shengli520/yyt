@@ -1,0 +1,37 @@
+2018-07-25 10:29:43,293 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="dd8909bea39c6f13dc557aea4ea6cccc")> browser.
+2018-07-25 10:29:43,502 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:29:43,516 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:29:51,253 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:29:51,368 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:29:51,868 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:29:51,938 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:29:52,083 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:29:52,183 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:29:52,309 - BasePage - INFO - Had find the element ' 员工档案 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/p 
+2018-07-25 10:29:52,957 - BasePage - INFO - The element ' 员工档案 ' was clicked.
+2018-07-25 10:29:53,019 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:29:54,443 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 10:29:54,453 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 10:29:56,517 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:29:56,521 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:29:58,321 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 10:29:58,478 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 10:29:58,978 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:29:59,050 - BasePage - INFO - Had find the element ' 员工管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-25 10:29:59,203 - BasePage - INFO - The element ' 员工管理 ' was clicked.
+2018-07-25 10:29:59,304 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 10:29:59,375 - BasePage - INFO - Had find the element ' 编外员工 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[2]/p 
+2018-07-25 10:30:01,797 - BasePage - INFO - The element ' 编外员工 ' was clicked.
+2018-07-25 10:30:01,824 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 10:31:29,396 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:31:29,399 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:31:33,419 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:31:33,421 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:31:37,467 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:31:37,469 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:31:41,506 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:31:41,509 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:31:45,576 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:31:45,578 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 10:31:49,595 - MYtest - INFO - browser maximize the current window.
+2018-07-25 10:31:49,597 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/

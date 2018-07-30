@@ -1,0 +1,11 @@
+2018-05-22 09:54:56,078 - MYtest - INFO - You had select Chrome browser.
+2018-05-22 09:54:56,421 - MYtest - INFO - Maximize the current window.
+2018-05-22 09:54:56,431 - MYtest - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-22 09:55:04,011 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-05-22 09:55:04,598 - BasePage - INFO - The element ' OA ' was clicked.
+2018-05-22 09:55:05,098 - BasePage - INFO - Sleep for 0 seconds
+2018-05-22 09:55:05,164 - BasePage - INFO - Had find the element ' EA通讯录 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/p 
+2018-05-22 09:55:05,278 - BasePage - INFO - The element ' EA通讯录 ' was clicked.
+2018-05-22 09:55:05,429 - BasePage - INFO - Had find the element ' 员工通讯录 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[2]/div/div/p 
+2018-05-22 09:55:07,331 - BasePage - INFO - The element ' 员工通讯录 ' was clicked.
+2018-05-22 09:55:07,531 - BasePage - INFO - Sleep for 0 seconds

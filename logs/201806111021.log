@@ -1,0 +1,31 @@
+2018-06-11 10:21:22,802 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="8faba29e73ec7324749917bbbc3241f7")> browser.
+2018-06-11 10:21:23,100 - MYtest - INFO - browser maximize the current window.
+2018-06-11 10:21:23,106 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 10:21:36,300 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='ea-system']/li[2]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.27.440174 (e97a722caafc2d3a8b807ee115bfb307f7d2cfd9),platform=Windows NT 6.1.7601 SP1 x86_64)
+
+2018-06-11 10:21:36,643 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-11 10:21:37,294 - MYtest - INFO - browser maximize the current window.
+2018-06-11 10:21:37,299 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 10:21:40,365 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 10:21:40,763 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 10:21:41,263 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 10:21:41,332 - BasePage - INFO - Had find the element ' 对外投资 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-11 10:21:41,503 - BasePage - INFO - The element ' 对外投资 ' was clicked.
+2018-06-11 10:21:41,634 - BasePage - INFO - Had find the element ' 控股 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[1]/p 
+2018-06-11 10:21:43,375 - BasePage - INFO - The element ' 控股 ' was clicked.
+2018-06-11 10:21:43,418 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 10:21:57,360 - MYtest - INFO - browser maximize the current window.
+2018-06-11 10:21:57,365 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 10:21:58,629 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 10:21:58,748 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 10:21:59,249 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 10:21:59,310 - BasePage - INFO - Had find the element ' 对外投资 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/p 
+2018-06-11 10:21:59,411 - BasePage - INFO - The element ' 对外投资 ' was clicked.
+2018-06-11 10:21:59,545 - BasePage - INFO - Had find the element ' 其他 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[1]/div/div[3]/p 
+2018-06-11 10:22:01,114 - BasePage - INFO - The element ' 其他 ' was clicked.
+2018-06-11 10:22:01,144 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 10:22:01,937 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-11 10:22:01,995 - BasePage - INFO - Had find the element ' 业务模式现状 ' successful by id via value: businessmodel 
+2018-06-11 10:22:02,016 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

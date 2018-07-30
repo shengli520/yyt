@@ -1,0 +1,31 @@
+2018-06-22 15:12:41,451 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="4ab69a66c01359515471050e60b749c0")> browser.
+2018-06-22 15:12:41,738 - MYtest - INFO - browser maximize the current window.
+2018-06-22 15:12:41,744 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-22 15:12:50,732 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-22 15:12:50,955 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-22 15:12:51,455 - BasePage - INFO - Sleep for 0 seconds
+2018-06-22 15:12:51,552 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-22 15:12:51,682 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-22 15:12:51,881 - BasePage - INFO - Had find the element ' 卡位管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[6]/p 
+2018-06-22 15:12:52,016 - BasePage - INFO - The element ' 卡位管理 ' was clicked.
+2018-06-22 15:12:52,117 - BasePage - INFO - Sleep for 0 seconds
+2018-06-22 15:12:52,255 - BasePage - INFO - Had find the element ' 卡位管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[6]/div/p[1] 
+2018-06-22 15:12:52,859 - BasePage - INFO - The element '  ' was clicked.
+2018-06-22 15:12:52,905 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-22 15:12:53,980 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-22 15:12:53,989 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-22 15:12:55,647 - MYtest - INFO - browser maximize the current window.
+2018-06-22 15:12:55,651 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-22 15:12:57,606 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-22 15:12:57,794 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-22 15:12:58,295 - BasePage - INFO - Sleep for 0 seconds
+2018-06-22 15:12:58,358 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-22 15:12:58,545 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-22 15:12:58,674 - BasePage - INFO - Had find the element ' 卡位管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[6]/p 
+2018-06-22 15:12:58,793 - BasePage - INFO - The element ' 卡位管理 ' was clicked.
+2018-06-22 15:12:59,293 - BasePage - INFO - Sleep for 0 seconds
+2018-06-22 15:12:59,374 - BasePage - INFO - Had find the element ' 卡位变更管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[6]/div/p[2] 
+2018-06-22 15:13:01,296 - BasePage - INFO - The element '  ' was clicked.
+2018-06-22 15:13:01,336 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-22 15:13:02,232 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-22 15:13:02,245 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

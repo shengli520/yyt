@@ -1,0 +1,15 @@
+2018-06-25 10:55:52,570 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="edae4f25634a727a83b4c83b626e2f71")> browser.
+2018-06-25 10:55:52,801 - MYtest - INFO - browser maximize the current window.
+2018-06-25 10:55:52,810 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 10:56:02,079 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 10:56:02,235 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 10:56:02,736 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 10:56:02,805 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 10:56:02,915 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 10:56:05,130 - MYtest - INFO - browser maximize the current window.
+2018-06-25 10:56:05,134 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 10:56:06,839 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 10:56:06,963 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 10:56:07,464 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 10:56:12,890 - MYtest - INFO - browser maximize the current window.
+2018-06-25 10:56:12,894 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/

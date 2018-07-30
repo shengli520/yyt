@@ -1,0 +1,27 @@
+2018-07-06 13:53:00,787 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="5a0dbfc6a6b5adbc2e324dea1a6cd0f8")> browser.
+2018-07-06 13:53:01,051 - MYtest - INFO - browser maximize the current window.
+2018-07-06 13:53:01,055 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-06 13:53:08,414 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-06 13:53:08,527 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-06 13:53:09,027 - BasePage - INFO - Sleep for 0 seconds
+2018-07-06 13:53:09,115 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-07-06 13:53:09,214 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-07-06 13:53:09,339 - BasePage - INFO - Had find the element ' 车辆管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[1]/p 
+2018-07-06 13:53:09,449 - BasePage - INFO - The element ' 车辆管理 ' was clicked.
+2018-07-06 13:53:09,550 - BasePage - INFO - Sleep for 0 seconds
+2018-07-06 13:53:09,620 - BasePage - INFO - Had find the element ' 车辆预约 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[1]/div/p[1] 
+2018-07-06 13:53:10,301 - BasePage - INFO - The element ' 车辆预约 ' was clicked.
+2018-07-06 13:53:10,327 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-06 13:53:12,481 - MYtest - INFO - browser maximize the current window.
+2018-07-06 13:53:12,483 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-06 13:53:14,219 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-06 13:53:14,332 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-06 13:53:14,832 - BasePage - INFO - Sleep for 0 seconds
+2018-07-06 13:53:14,897 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-07-06 13:53:15,021 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-07-06 13:53:15,118 - BasePage - INFO - Had find the element ' 车辆管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[1]/p 
+2018-07-06 13:53:15,215 - BasePage - INFO - The element ' 车辆管理 ' was clicked.
+2018-07-06 13:53:15,315 - BasePage - INFO - Sleep for 0 seconds
+2018-07-06 13:53:15,392 - BasePage - INFO - Had find the element ' 车辆证件管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[1]/div/p[2] 
+2018-07-06 13:53:17,773 - BasePage - INFO - The element ' 车辆证件管理 ' was clicked.
+2018-07-06 13:53:17,794 - BasePage - INFO - Into the frame is % iframe ***

@@ -1,0 +1,16 @@
+2018-05-16 10:43:57,621 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 10:43:57,621 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-05-16 10:43:59,679 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 10:44:01,862 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-16 10:44:01,863 - BrowserEngine - INFO - Maximize the current window.
+2018-05-16 10:44:01,869 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 10:44:06,385 - BasePage - INFO - The element '  OA系统 ' was clicked.
+2018-05-16 10:44:16,385 - BasePage - INFO - Sleep for 10 seconds
+2018-05-16 10:44:16,620 - BasePage - INFO - The element ' EA通讯录 ' was clicked.
+2018-05-16 10:44:18,763 - BasePage - INFO - The element ' 员工通讯录 ' was clicked.
+2018-05-16 10:44:18,963 - BasePage - INFO - Sleep for 0 seconds
+2018-05-16 10:44:19,100 - BasePage - INFO - Had find the element ' 你是谁? ' successful by xpath via value: .//*[@id='conditions_table']/tbody/tr[1]/td[1]/a 
+2018-05-16 10:44:19,268 - BasePage - INFO - The element ' 你是谁? ' was clicked.
+2018-05-16 10:44:21,738 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-16 10:44:21,796 - BasePage - INFO - Had find the element ' 员工工号 ' successful by id via value: employeecode 
+2018-05-16 10:44:21,819 - BasePage - INFO - Current page title is [237]怡亚通集团管控系统平台(05152143 )

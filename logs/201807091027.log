@@ -1,0 +1,6 @@
+2018-07-09 10:27:15,440 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="401bc4d2f2de1a4c45fcf9262119c223")> browser.
+2018-07-09 10:27:15,694 - MYtest - INFO - browser maximize the current window.
+2018-07-09 10:27:15,699 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-09 10:27:22,608 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-09 10:27:22,779 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-09 10:27:23,280 - BasePage - INFO - Sleep for 0 seconds

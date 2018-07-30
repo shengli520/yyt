@@ -1,0 +1,29 @@
+2018-07-04 15:44:20,194 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="1ee3e51dd66d25d1128cc81291fbfc9f")> browser.
+2018-07-04 15:44:20,496 - MYtest - INFO - browser maximize the current window.
+2018-07-04 15:44:20,498 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-04 15:44:26,825 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-04 15:44:26,960 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-04 15:44:27,461 - BasePage - INFO - Sleep for 0 seconds
+2018-07-04 15:44:27,522 - BasePage - INFO - Had find the element ' 资产管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-04 15:44:27,647 - BasePage - INFO - The element ' 资产管理 ' was clicked.
+2018-07-04 15:44:27,796 - BasePage - INFO - Had find the element ' 固定资产管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/p 
+2018-07-04 15:44:27,912 - BasePage - INFO - The element ' 固定资产管理 ' was clicked.
+2018-07-04 15:44:28,113 - BasePage - INFO - Sleep for 0 seconds
+2018-07-04 15:44:28,169 - BasePage - INFO - Had find the element ' 资产领用申请 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/div/p[1] 
+2018-07-04 15:44:29,678 - BasePage - INFO - The element ' 资产领用申请 ' was clicked.
+2018-07-04 15:44:32,479 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-04 15:44:33,763 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-04 15:44:33,773 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-04 15:44:35,346 - MYtest - INFO - browser maximize the current window.
+2018-07-04 15:44:35,354 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-04 15:44:36,923 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-04 15:44:37,042 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-04 15:44:37,542 - BasePage - INFO - Sleep for 0 seconds
+2018-07-04 15:44:37,633 - BasePage - INFO - Had find the element ' 资产管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-07-04 15:44:37,777 - BasePage - INFO - The element ' 资产管理 ' was clicked.
+2018-07-04 15:44:37,922 - BasePage - INFO - Had find the element ' 固定资产管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/p 
+2018-07-04 15:44:38,045 - BasePage - INFO - The element ' 固定资产管理 ' was clicked.
+2018-07-04 15:44:38,246 - BasePage - INFO - Sleep for 0 seconds
+2018-07-04 15:44:38,301 - BasePage - INFO - Had find the element ' 资产采购查询 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[1]/div/p[2] 
+2018-07-04 15:44:40,392 - BasePage - INFO - The element ' 资产采购查询 ' was clicked.
+2018-07-04 15:44:40,421 - BasePage - INFO - Into the frame is % iframe ***

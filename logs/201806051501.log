@@ -1,0 +1,11 @@
+2018-06-05 15:01:47,746 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="be8636e15fba77d408ea734e11d6a9a5")> browser.
+2018-06-05 15:01:48,095 - MYtest - INFO - browser maximize the current window.
+2018-06-05 15:01:48,099 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-05 15:01:54,102 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-05 15:01:54,739 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-05 15:01:55,240 - BasePage - INFO - Sleep for 0 seconds
+2018-06-05 15:01:55,301 - BasePage - INFO - Had find the element ' 税务管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-05 15:01:55,435 - BasePage - INFO - The element ' 税务管理 ' was clicked.
+2018-06-05 15:01:55,635 - BasePage - INFO - Had find the element ' 增值税申报 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[4]/p 
+2018-06-05 15:01:57,327 - BasePage - INFO - The element ' 增值税申报 ' was clicked.
+2018-06-05 15:01:57,369 - BasePage - INFO - Into the frame is % iframe ***

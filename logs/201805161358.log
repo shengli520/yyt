@@ -1,0 +1,24 @@
+2018-05-16 13:58:18,418 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 13:58:18,418 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-05-16 13:58:20,807 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 13:58:22,831 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-16 13:58:22,833 - BrowserEngine - INFO - Maximize the current window.
+2018-05-16 13:58:22,839 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 13:58:27,341 - BasePage - INFO - The element '  OA系统 ' was clicked.
+2018-05-16 13:58:27,345 - BasePage - INFO - wait for 10 seconds.
+2018-05-16 13:58:57,404 - BrowserEngine - INFO - You had select Chrome browser.
+2018-05-16 13:58:57,405 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-05-16 13:58:59,496 - BrowserEngine - INFO - Starting Chrome browser.
+2018-05-16 13:59:01,466 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-05-16 13:59:01,467 - BrowserEngine - INFO - Maximize the current window.
+2018-05-16 13:59:01,477 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-05-16 13:59:06,051 - BasePage - INFO - The element '  OA系统 ' was clicked.
+2018-05-16 13:59:06,551 - BasePage - INFO - Sleep for 0 seconds
+2018-05-16 13:59:06,738 - BasePage - INFO - The element ' EA通讯录 ' was clicked.
+2018-05-16 13:59:08,411 - BasePage - INFO - The element ' 员工通讯录 ' was clicked.
+2018-05-16 13:59:08,612 - BasePage - INFO - Sleep for 0 seconds
+2018-05-16 13:59:08,747 - BasePage - INFO - Had find the element ' 你是谁? ' successful by xpath via value: .//*[@id='conditions_table']/tbody/tr[1]/td[1]/a 
+2018-05-16 13:59:08,931 - BasePage - INFO - The element ' 你是谁? ' was clicked.
+2018-05-16 13:59:11,001 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-05-16 13:59:11,063 - BasePage - INFO - Had find the element ' 员工工号 ' successful by id via value: employeecode 
+2018-05-16 13:59:11,090 - BasePage - INFO - Current page title is [233]怡亚通集团管控系统平台(05152143 )

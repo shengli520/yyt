@@ -1,0 +1,445 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"new_words"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"la",
+				"last"
+			],
+			[
+				"f",
+				"fiest"
+			],
+			[
+				"read",
+				"readlines"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"郑圣",
+				"郑圣利喜欢爬梧桐树"
+			],
+			[
+				"li",
+				"line"
+			],
+			[
+				"l",
+				"lines"
+			],
+			[
+				"roll",
+				"roll_die20"
+			],
+			[
+				"s",
+				"sides"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"C",
+				"Car"
+			],
+			[
+				"de",
+				"describe_battery"
+			],
+			[
+				"E",
+				"ElectricCar"
+			],
+			[
+				"m",
+				"make"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"mi",
+				"miles"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"red",
+				"read_odometer"
+			],
+			[
+				"get",
+				"get_descriptive_name"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"ro",
+				"roll_over"
+			],
+			[
+				"is",
+				"is_paly"
+			],
+			[
+				"i",
+				"i_play"
+			],
+			[
+				"U",
+				"url_OA"
+			],
+			[
+				"pet",
+				"pet_name"
+			],
+			[
+				"des",
+				"descrbet_pet"
+			],
+			[
+				"pe",
+				"pet_name"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"p",
+				"p_action"
+			],
+			[
+				"val",
+				"vlaue"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"x",
+				"x_p"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"ne",
+				"new_aline"
+			],
+			[
+				"aline_",
+				"aline_0"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"cou",
+				"courunt_users"
+			],
+			[
+				"lo",
+				"login_names"
+			],
+			[
+				"K",
+				"KFC_list"
+			],
+			[
+				"c",
+				"contents"
+			],
+			[
+				"su",
+				"subject"
+			],
+			[
+				"ya",
+				"yagmail"
+			],
+			[
+				"ta",
+				"taillist"
+			],
+			[
+				"q",
+				"quests"
+			],
+			[
+				"zsl",
+				"zsl=[\"ac\",\"ad\",\"dd\",\"yy\",\"zz\",\"cc"
+			],
+			[
+				"w",
+				"webdriver"
+			],
+			[
+				"sel",
+				"selenium"
+			],
+			[
+				"url",
+				"urllib"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "View In Browser",
+		"selected_items":
+		[
+			[
+				"View In Browser",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"install package",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"Package Control: i",
+				"Package Control: List Packages→列出插件"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Create Binary Package File→创建二进制插件"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"in",
+				"Package Control: Install Package→安装插件"
+			],
+			[
+				"i",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 594.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"importurllib.request,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/selenium/OA/Test_OA/python练习/zsl.txt",
+		"/D/selenium/OA/Test_OA/python练习/user.txt",
+		"/D/selenium/OA/Test_OA/test_case/start_员工出差申请.py",
+		"/D/selenium/OA/Test_OA/test_case/start_业务导入查询.py",
+		"/C/Program Files (x86)/Sublime Text3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/Sublime Text3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/selenium/OA/Test_OA/python练习/lianxi.py",
+		"/D/selenium/OA/Test_OA/all_tests.py",
+		"/C/Program Files (x86)/Sublime Text3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/D/selenium/OA/Test_OA/test_case/start_会议预订.py",
+		"/D/selenium/OA/Test_OA/test_case/start_项目设立申请.py",
+		"/D/selenium/OA/Test_OA/test_case/start_需求管理.py",
+		"/D/selenium/OA/Test_OA/test_case/start_还款申请.py",
+		"/D/selenium/OA/Test_OA/test_case/start_资产领用申请和采购.py",
+		"/D/selenium/OA/Test_OA/test_case/start_资产转移申请.py",
+		"/D/selenium/OA/Test_OA/test_case/start_考勤数据报表.py",
+		"/D/selenium/OA/Test_OA/python练习/lianxi",
+		"/D/selenium/OA/Test_OA/python练习/homework",
+		"/C/Users/user/Documents/Tencent Files/568429353/FileRecv/订单新建.py",
+		"/E/SeleniumProj/test_case/page_obj/login.py",
+		"/E/SeleniumProj/test_case/page_obj/LoginPage.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"46",
+			"47",
+			"216",
+			"216[每天更新]",
+			"2018-03-07",
+			"nubmer=[1,2,3,4,5,0,11]\n# print(max(nubmer))\n# print(min(nubmer))\n# print(sum(nubmer))",
+			"test.append(\"oa\")",
+			"资金",
+			"2017-11-01",
+			"\\d.\\d.\\d.\\d"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"46 ",
+			"47 ",
+			"225 ",
+			"225 [每天更新]",
+			"18-03-07",
+			"2018-03-07",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "base_page.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

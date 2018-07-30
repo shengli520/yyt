@@ -1,0 +1,27 @@
+2018-07-25 11:23:36,039 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="1b833b31a8f992f620817f7b9cd41c34")> browser.
+2018-07-25 11:23:36,321 - MYtest - INFO - browser maximize the current window.
+2018-07-25 11:23:36,325 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 11:23:44,071 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 11:23:44,205 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 11:23:44,705 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 11:23:44,778 - BasePage - INFO - Had find the element ' 绩效管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[8]/p 
+2018-07-25 11:23:44,941 - BasePage - INFO - The element ' 绩效管理 ' was clicked.
+2018-07-25 11:23:45,042 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 11:23:45,121 - BasePage - INFO - Had find the element ' 员工绩效管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[8]/div/div[1]/p 
+2018-07-25 11:23:47,765 - BasePage - INFO - The element ' 员工绩效管理 ' was clicked.
+2018-07-25 11:23:47,804 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 11:23:50,744 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 11:23:50,755 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-07-25 11:23:53,108 - MYtest - INFO - browser maximize the current window.
+2018-07-25 11:23:53,114 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-25 11:23:54,839 - BasePage - INFO - Had find the element ' EHR ' successful by xpath via value: .//*[@id='ea-system']/li[4] 
+2018-07-25 11:23:54,960 - BasePage - INFO - The element ' EHR ' was clicked.
+2018-07-25 11:23:55,460 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 11:23:55,539 - BasePage - INFO - Had find the element ' 绩效管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[8]/p 
+2018-07-25 11:23:55,676 - BasePage - INFO - The element ' 绩效管理 ' was clicked.
+2018-07-25 11:23:55,777 - BasePage - INFO - Sleep for 0 seconds
+2018-07-25 11:23:55,845 - BasePage - INFO - Had find the element ' 员工年度评估 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[8]/div/div[2]/p 
+2018-07-25 11:23:56,279 - BasePage - INFO - The element ' 员工年度评估 ' was clicked.
+2018-07-25 11:23:56,309 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-25 11:23:57,703 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-07-25 11:23:57,717 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

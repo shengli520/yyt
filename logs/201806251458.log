@@ -1,0 +1,44 @@
+2018-06-25 14:58:17,937 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="69ab694148078649294006072436a952")> browser.
+2018-06-25 14:58:23,819 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="aefe836d74cc104273c982f49dfc8d95")> browser.
+2018-06-25 14:58:24,100 - MYtest - INFO - browser maximize the current window.
+2018-06-25 14:58:24,107 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 14:58:35,519 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 14:58:35,632 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 14:58:36,132 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 14:58:36,193 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 14:58:36,318 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 14:58:36,856 - BasePage - INFO - Had find the element ' 快件接收 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[1] 
+2018-06-25 14:58:38,059 - BasePage - INFO - The element ' 快件接收 ' was clicked.
+2018-06-25 14:58:38,083 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-25 14:58:39,979 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-25 14:58:39,988 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-25 14:58:42,129 - MYtest - INFO - browser maximize the current window.
+2018-06-25 14:58:42,131 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 14:58:43,644 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 14:58:43,747 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 14:58:44,248 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 14:58:44,297 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 14:58:44,399 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 14:58:44,533 - BasePage - INFO - Had find the element ' 快递管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/p 
+2018-06-25 14:58:44,627 - BasePage - INFO - The element ' 快递管理 ' was clicked.
+2018-06-25 14:58:44,728 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 14:58:44,974 - BasePage - INFO - Had find the element ' 快件发送 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[2] 
+2018-06-25 14:58:45,286 - BasePage - INFO - The element ' 快件发送 ' was clicked.
+2018-06-25 14:58:45,315 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-25 14:58:46,568 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-25 14:58:46,578 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-25 14:58:48,502 - MYtest - INFO - browser maximize the current window.
+2018-06-25 14:58:48,503 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-25 14:58:50,169 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-06-25 14:58:50,266 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-06-25 14:58:50,767 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 14:58:50,825 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-06-25 14:58:50,948 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-06-25 14:58:51,071 - BasePage - INFO - Had find the element ' 快递管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/p 
+2018-06-25 14:58:51,169 - BasePage - INFO - The element ' 快递管理 ' was clicked.
+2018-06-25 14:58:51,270 - BasePage - INFO - Sleep for 0 seconds
+2018-06-25 14:58:51,529 - BasePage - INFO - Had find the element ' 快递费用统计报表 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[7]/div/p[3] 
+2018-06-25 14:58:51,816 - BasePage - INFO - The element ' 快递费用统计报表 ' was clicked.
+2018-06-25 14:58:51,843 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-25 14:58:53,071 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-25 14:58:53,081 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台

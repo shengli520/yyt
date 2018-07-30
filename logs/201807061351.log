@@ -1,0 +1,23 @@
+2018-07-06 13:51:17,646 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-06 13:51:17,646 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-07-06 13:51:20,692 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-06 13:51:23,545 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-07-06 13:51:23,545 - BrowserEngine - INFO - Maximize the current window.
+2018-07-06 13:51:23,549 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-07-06 13:51:28,625 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-06 13:51:28,918 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-06 13:51:29,418 - BasePage - INFO - Sleep for 0 seconds
+2018-07-06 13:51:29,510 - BasePage - INFO - Had find the element ' 行政服务 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/p 
+2018-07-06 13:51:29,640 - BasePage - INFO - The element ' 行政服务 ' was clicked.
+2018-07-06 13:51:29,812 - BasePage - INFO - Had find the element ' 车辆管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[1]/p 
+2018-07-06 13:51:29,947 - BasePage - INFO - The element ' 车辆管理 ' was clicked.
+2018-07-06 13:51:30,048 - BasePage - INFO - Sleep for 0 seconds
+2018-07-06 13:51:30,120 - BasePage - INFO - Had find the element ' 车辆预约 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[4]/div/div[1]/div/p[1] 
+2018-07-06 13:51:30,861 - BasePage - INFO - The element ' 车辆预约 ' was clicked.
+2018-07-06 13:51:30,898 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-06 13:51:32,725 - BrowserEngine - INFO - You had select Chrome browser.
+2018-07-06 13:51:32,726 - BrowserEngine - INFO - The test server url is: http://oa.eascs.com/eaoa/
+2018-07-06 13:51:36,574 - BrowserEngine - INFO - Starting Chrome browser.
+2018-07-06 13:51:38,862 - BrowserEngine - INFO - Open url: http://oa.eascs.com/eaoa/
+2018-07-06 13:51:38,864 - BrowserEngine - INFO - Maximize the current window.
+2018-07-06 13:51:38,869 - BrowserEngine - INFO - Set implicitly wait 10 seconds.

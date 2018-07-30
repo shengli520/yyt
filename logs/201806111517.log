@@ -1,0 +1,24 @@
+2018-06-11 15:17:13,464 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="7e8079abb928605da163c10b700b45e6")> browser.
+2018-06-11 15:17:13,735 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:17:13,753 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:17:20,811 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:17:21,250 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:17:21,750 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:17:21,826 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:17:21,942 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:17:22,092 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:17:22,216 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:17:22,290 - BasePage - INFO - Had find the element ' 仓库管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[1] 
+2018-06-11 15:17:23,916 - BasePage - INFO - The element ' 仓库管理 ' was clicked.
+2018-06-11 15:17:23,961 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 15:17:52,684 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="a4653378393b870a8c79c4d18bb1a541")> browser.
+2018-06-11 15:17:52,921 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:17:52,926 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:17:58,955 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:17:59,218 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:17:59,719 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:17:59,804 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:17:59,953 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:18:00,177 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:18:00,290 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:18:00,370 - BasePage - INFO - Had find the element ' 仓库管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[1] 

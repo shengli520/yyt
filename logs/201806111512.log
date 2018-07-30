@@ -1,0 +1,12 @@
+2018-06-11 15:12:52,369 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="4d20016efc336bdf18897e905cb0bedc")> browser.
+2018-06-11 15:12:52,655 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:12:52,660 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:12:58,342 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:12:58,797 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:12:59,300 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:12:59,372 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:12:59,503 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:12:59,649 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:12:59,788 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:12:59,869 - BasePage - INFO - Had find the element ' 仓库管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[1] 
+2018-06-11 15:13:01,552 - BasePage - INFO - The element '  ' was clicked.

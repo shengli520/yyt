@@ -1,0 +1,6 @@
+2018-06-19 11:15:35,759 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="b446a370dc13d8d6a82f6f469c32598f")> browser.
+2018-06-19 11:15:35,994 - MYtest - INFO - browser maximize the current window.
+2018-06-19 11:15:36,002 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-19 11:15:58,112 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="ae2a8d18ec439dcd6d774df275822066")> browser.
+2018-06-19 11:15:58,434 - MYtest - INFO - browser maximize the current window.
+2018-06-19 11:15:58,442 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/

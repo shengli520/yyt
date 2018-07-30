@@ -1,0 +1,71 @@
+2018-06-11 15:30:10,795 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="0e4b55e3f0e12403a545e7f8f2c161de")> browser.
+2018-06-11 15:30:11,038 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:30:11,042 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:30:16,372 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:30:16,887 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:30:17,388 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:17,473 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:30:17,592 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:30:17,741 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:30:17,841 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:30:18,042 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:18,159 - BasePage - INFO - Had find the element ' 仓库管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[1] 
+2018-06-11 15:30:21,935 - BasePage - INFO - The element '  ' was clicked.
+2018-06-11 15:30:21,977 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 15:30:22,997 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-11 15:30:23,005 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-11 15:30:24,002 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:30:24,005 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:30:25,267 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:30:25,480 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:30:25,982 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:26,040 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:30:26,167 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:30:26,305 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:30:26,423 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:30:26,623 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:26,708 - BasePage - INFO - Had find the element ' 仓库使用率 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[2] 
+2018-06-11 15:30:27,042 - BasePage - INFO - The element ' 仓库使用率 ' was clicked.
+2018-06-11 15:30:38,305 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:30:38,310 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:30:39,744 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:30:39,996 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:30:40,496 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:40,537 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:30:40,638 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:30:40,797 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:30:40,893 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:30:41,093 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:41,186 - BasePage - INFO - Had find the element ' 运输车辆 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[3] 
+2018-06-11 15:30:41,638 - BasePage - INFO - The element ' 运输车辆 ' was clicked.
+2018-06-11 15:30:41,687 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 15:30:42,930 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-11 15:30:42,940 - BasePage - INFO - Current page title is 怡亚通集团管控系统平台
+2018-06-11 15:30:44,163 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:30:44,171 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:30:45,573 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:30:45,829 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:30:46,329 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:46,386 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:30:46,494 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:30:46,646 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:30:46,735 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:30:46,936 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:47,040 - BasePage - INFO - Had find the element ' 物流资源汇总 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[4] 
+2018-06-11 15:30:47,568 - BasePage - INFO - The element ' 物流资源汇总 ' was clicked.
+2018-06-11 15:30:47,610 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 15:30:49,245 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-06-11 15:30:50,481 - MYtest - INFO - browser maximize the current window.
+2018-06-11 15:30:50,485 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-06-11 15:30:52,303 - BasePage - INFO - Had find the element ' OA ' successful by xpath via value: .//*[@id='ea-system']/li[2] 
+2018-06-11 15:30:52,459 - BasePage - INFO - The element ' OA ' was clicked.
+2018-06-11 15:30:52,959 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:53,015 - BasePage - INFO - Had find the element ' 营运管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/p 
+2018-06-11 15:30:53,122 - BasePage - INFO - The element ' 营运管理 ' was clicked.
+2018-06-11 15:30:53,277 - BasePage - INFO - Had find the element ' 库存管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/p 
+2018-06-11 15:30:53,367 - BasePage - INFO - The element ' 库存管理 ' was clicked.
+2018-06-11 15:30:53,569 - BasePage - INFO - Sleep for 0 seconds
+2018-06-11 15:30:53,640 - BasePage - INFO - Had find the element ' 车辆信息统计表 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[6]/div/div[3]/div/p[5] 
+2018-06-11 15:30:54,201 - BasePage - INFO - The element '  ' was clicked.
+2018-06-11 15:30:54,232 - BasePage - INFO - Into the frame is % iframe ***
+2018-06-11 15:30:55,578 - BasePage - INFO - Had take screenshot and save to folder : /screenshots

@@ -1,0 +1,15 @@
+2018-07-09 10:28:55,455 - MYtest - INFO - You had select <selenium.webdriver.chrome.webdriver.WebDriver (session="e54fecd4659104b315d67c2e9546e55b")> browser.
+2018-07-09 10:28:55,706 - MYtest - INFO - browser maximize the current window.
+2018-07-09 10:28:55,715 - MYtest - INFO - Open browser url is: http://oa.eascs.com/eaoa/
+2018-07-09 10:29:01,300 - BasePage - INFO - Had find the element ' 行政 ' successful by xpath via value: .//*[@id='ea-system']/li[3] 
+2018-07-09 10:29:01,397 - BasePage - INFO - The element ' 行政 ' was clicked.
+2018-07-09 10:29:01,897 - BasePage - INFO - Sleep for 0 seconds
+2018-07-09 10:29:01,982 - BasePage - INFO - Had find the element ' 档案管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/p 
+2018-07-09 10:29:02,069 - BasePage - INFO - The element ' 档案管理 ' was clicked.
+2018-07-09 10:29:02,171 - BasePage - INFO - Sleep for 0 seconds
+2018-07-09 10:29:02,233 - BasePage - INFO - Had find the element ' 业务合同管理 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/div/div[1]/p 
+2018-07-09 10:29:02,314 - BasePage - INFO - The element ' 业务合同管理 ' was clicked.
+2018-07-09 10:29:02,358 - BasePage - INFO - Had find the element ' 业务合同查询 ' successful by xpath via value: .//*[@id='ea-scroll']/div/div[7]/div/div[1]/div/p[1] 
+2018-07-09 10:29:03,822 - BasePage - INFO - The element ' 业务合同查询 ' was clicked.
+2018-07-09 10:29:03,844 - BasePage - INFO - Into the frame is % iframe ***
+2018-07-09 10:29:04,794 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
